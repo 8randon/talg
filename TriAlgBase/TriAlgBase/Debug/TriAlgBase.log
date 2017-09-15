@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\brandon townsend\source\repos\trialgbase\trialgbase\tab.h(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon townsend\source\repos\trialgbase\trialgbase\tab.h(74): warning C4101: 'j': unreferenced local variable
+  TriAlgBase.vcxproj -> c:\users\brandon townsend\source\repos\TriAlgBase\Debug\TriAlgBase.exe
+  TriAlgBase.vcxproj -> c:\users\brandon townsend\source\repos\TriAlgBase\Debug\TriAlgBase.pdb (Partial PDB)
